@@ -14,4 +14,4 @@ Excel FFT (Float) Result<br>
 <hr><br>
 <h3>Conclusion</h3><br>
 Fixed Point FFT uses integral to get the spectrum result, cover a much smaller range of values than floating point values; but 
-the Fixed Point FFT result has mass noise because the data is reduced in the FF algorithm.
+the Fixed Point FFT result has some noise because the data are reduced in the Fixed Point FFT algorithm.
