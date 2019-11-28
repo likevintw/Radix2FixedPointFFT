@@ -4,3 +4,4 @@ Radix2 Fixed Point FFT, Demonstration Only, The data size must be less than or e
 <hr><br>
 Input Data <br>
 ![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Time.PNG)
+![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Time.PNG)
