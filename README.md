@@ -7,7 +7,7 @@ Input Data <br>
 ![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Time.PNG)<br>
 Fixed Point FFT Result<br>
 
-![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Fixed%20FFT%20Spectrum.PNG)
+![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Fixed%20FFT%20Spectrum.PNG)<br>
 Excel FFT (Float) Result<br>
 
 ![image](https://github.com/likevintw/Radix2FixedPointFFT/blob/master/Excel%20FFT%20(float)%20Spectrum.PNG)
